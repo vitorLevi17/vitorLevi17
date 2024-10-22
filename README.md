@@ -5,4 +5,4 @@
 Sou um programador que gosta de mergulhar na web e criar soluções para ajudar no cotidiano das pessoas.
   
 ### Some of My Tools
-[![My Skills](https://skillicons.dev/icons?i=py,flask,django,fastapi,git,github,java,spring,javascript,postgres,figma,docker,postman,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django,fastapi,git,github,java,spring,javascript,postman,sql,mysql)](https://skillicons.dev)
