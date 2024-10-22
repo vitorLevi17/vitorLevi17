@@ -9,4 +9,4 @@ I'm a programmer who enjoys delving into web , using models to construct applica
 - I've been using Python for around 02 to 03 years, and have worked with most of the most popular frameworks.
   
 ### Some of My Tools
-[![My Skills](https://skillicons.dev/icons?i=py,flask,django,fastapi,node,javascript,postgres,figma,docker,postman,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django,fastapi,git,github,java,spring,javascript,postgres,figma,docker,postman,mysql)](https://skillicons.dev)
